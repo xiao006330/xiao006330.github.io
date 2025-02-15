@@ -4,7 +4,7 @@
 
 ## 联系方式 Contact
 
-- 邮箱 Email: [xyf2022@tju.edu.cn](mailto:xyf2022@tju.edu.cn)
+- 邮箱 Email: [xyf_2022@tju.edu.cn](mailto:xyf_2022@tju.edu.cn)
 
 ---
 
